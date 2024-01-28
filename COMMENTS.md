@@ -8,6 +8,8 @@ Using Python 3.9.11 or higher, run it with:
 python slcsp.py
 ```
 
+Note that it expects `plans.csv`, `slcsp.csv`, and `zips.csv` to be present in the same directory as `slcsp.py`.
+
 ## Testing, linting, and formatting
 
 Unit tests are available in `test_slcsp.py`. Run them with
