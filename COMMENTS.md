@@ -18,4 +18,4 @@ Unit tests are available in `test_slcsp.py`. Run them with
 python -m unittest
 ```
 
-Python files have been formatted with `black`, and `slcsp.py` and annotated for static type checking with `mypy`.
+Python files have been formatted with `black`, and `slcsp.py` has been annotated for static type checking with `mypy`.
